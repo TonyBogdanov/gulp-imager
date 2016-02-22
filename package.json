@@ -1,0 +1,28 @@
+{
+  "name": "gulp-imager",
+  "version": "1.0.0",
+  "description": "Gulp wrapper for https://github.com/TonyBogdanov/imager 's generate method",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyBogdanov/gulp-imager.git"
+  },
+  "keywords": [
+    "imager",
+    "gulp",
+    "gulpplugin",
+    "images",
+    "imagemagick"
+  ],
+  "author": "Tony Bogdanov <tonybogdanov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TonyBogdanov/gulp-imager/issues"
+  },
+  "homepage": "https://github.com/TonyBogdanov/gulp-imager#readme",
+  "dependencies": {
+    "imager": "github:tonybogdanov/imager",
+    "path": "^0.12.7",
+    "shelljs": "^0.6.0"
+  }
+}
