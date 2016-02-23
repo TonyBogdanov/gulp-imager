@@ -1,6 +1,6 @@
 {
   "name": "gulp-imager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp wrapper for https://github.com/TonyBogdanov/imager 's generate method",
   "main": "index.js",
   "repository": {
